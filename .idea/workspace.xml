@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c93259-3169-48ba-8878-5787208b5626" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/APM-Start/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/home/welcome.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/home/welcome.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/page-not-found.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/product-categories/product-category-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/product-categories/product-category.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/product-categories/product-category.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-list-alt.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-list-alt.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-shell.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-alt/product-shell.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/suppliers/supplier-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/suppliers/supplier.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/suppliers/supplier.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/assets/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQoa4q21yDMBMqSQbr6cqgYOSu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c93259-3169-48ba-8878-5787208b5626" name="Changes" comment="" />
+      <created>1679605727674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679605727674</updated>
+      <workItem from="1679605731674" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
